@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\unriv\OneDrive\Documentos\orientacao_objetos\poo_exercise\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+4120505234.index
+1037955117.index

@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\unriv\OneDrive\Documentos\vetores_4\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2136966206.index
+4120505234.index

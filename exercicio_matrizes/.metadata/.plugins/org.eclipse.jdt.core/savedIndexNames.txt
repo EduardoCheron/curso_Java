@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\unriv\OneDrive\Documentos\exercicio_matrizes\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+856966319.index
+4120505234.index

@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class for_exercicio {
+
+	public static void main(String[] args) {
+	
+	Scanner sc = new Scanner(System.in);
+	
+	int x = sc.nextInt();
+	int soma = 0;
+	
+	for (int n = 0; x <n; n += 1) {
+		int z = sc.nextInt();
+		soma += z;
+	}
+	System.out.println(soma);
+	
+	
+	sc.close();
+	}
+	
+
+}

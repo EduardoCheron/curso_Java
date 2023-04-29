@@ -1,0 +1,46 @@
+package vetores_3;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner (System.in);
+		
+		int b;
+		double soma = 0.0;
+		
+		System.out.println("Quantos números você vai digitar? ");
+		b = sc.nextInt();
+		
+		double [] vetor = new double[b];
+		
+		for (int i = 0; i < b; i++) {
+			System.out.println("Digite um número: ");
+			vetor [b] = sc.nextDouble();
+		}
+		
+		
+		for (int i = 0; i < b; i++) {
+			System.out.printf("Valores digitados: ", vetor [i]);
+		}
+		
+		
+		for (int i = 0; i < b; i++) {
+			soma += vetor [i];
+		}
+		System.out.println(soma);
+		
+		double media = soma / b;
+		System.out.printf("MEDIA: %.2f" + media);
+		
+		
+		
+		
+		sc.close();
+	}
+
+}
